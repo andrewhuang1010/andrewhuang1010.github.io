@@ -1,4 +1,4 @@
 # andrewhuang1010.github.io
 
-<a href="andrewhuang1010.github.io">andrewhuang1010.github.io</a>
+<a href="https://andrewhuang1010.github.io">my website</a>
 
